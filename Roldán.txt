@@ -1,2 +1,6 @@
 Roldán Cañadas 231
+<<<<<<< HEAD
 user1
+=======
+user2
+>>>>>>> 82027988267ab7a0181417da987f9cb7f7be0fc3
